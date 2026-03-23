@@ -41,7 +41,8 @@ Personal Documents/
 ├── 新品卷烟推广语音播报器开发方案.md   # 主项目文档（核心）
 ├── 使命宣言.md                  # 个人使命宣言
 ├── REFACTORING.md              # 代码重构指南
-├── git使用.md                   # Git 命令速查手册
+├── Git命令速查.md               # Git 命令速查手册
+├── COMMIT_CONVENTION.md         # 提交信息规范 (Angular)
 └── AGENTS.md                   # 本文件
 ```
 
